@@ -1,0 +1,1001 @@
+id,specilization_name,college_dunia_link,target_study_link,careers_360_link,course_id,status,is_deleted,created_on,created_by,updated_by,updated_on
+3,Bengali,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+4,Business Economics,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+5,Economics,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+6,English,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+7,Fine Arts,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+8,Geography,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+9,Hindi,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+10,History,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+11,Home Science,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+12,Human Resource Management,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+13,Material Management,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+14,Music,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+15,Office Administration and Secreterial Practice,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+16,Political Science,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+17,Psycology,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+18,Sociology,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+19,Film,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+20,Journalism,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+21,Maths,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+22,Pass Course,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+23,PR / Advertising,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+24,Statistics,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+25,Vocational Course,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+26,Arts & Humanities,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+27,Communication,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+28,Sanskrit,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+30,Architecture,,,,3,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+32,Communication Design,,,,4,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+36,Education,,,,5,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+40,Anthropology,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+43,Biology,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+45,Botony,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+48,Electronics,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+49,General,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+50,Home Science,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+53,Maths / Mathematics,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+54,Micro Biology,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+55,Nutrition,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+56,Physics,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+57,Statistics,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+59,Zoology,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+62,Environmental science,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+63,Food Technology,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+64,Geology,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+65,Nursing,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+67,Bio-informatics,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+68,Economics,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+70,Geography,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+77,Tourism,,,,8,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+79,Computer Aided Management / Computer Applications,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+80,Management,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+83,Marketing,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+85,Computers,,,,10,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+87,Dentistry,,,,11,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+90,Automobile Engineering,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+91,Bio-Chemistry / Bio-Technology,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+99,Environmental Science,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+101,Manufacturing Process and Automation Engineering,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+104,Mineral Engineering,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+106,Petroleum Engineering,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+107,Plastic Technology,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+108,Polymer Science and Chemical Technology,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+110,Agriculture,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+111,Aviation,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+115,Marine,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+116,Metallurgy,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+117,Nuclear,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+118,Paint / Oil,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+120,Bio-informatics,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+127,Applied Art,,,,13,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+128,Art Education,,,,13,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+129,Painting,,,,13,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+130,Sculpture,,,,13,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+134,Journalism / Mass Communication,,,,15,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+136,Veterinary Sciences,,,,16,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+139,Animation,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+142,Construction Technology,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+143,Craft Design,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+144,Creative Writing,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+145,Diary Technology,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+146,Disaster Management,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+147,DOEACC O/A/B/C Level,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+149,Electronics / Telecommunication Engg,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+150,Fashion Tech,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+151,Garment Technology,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+152,IT,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+153,Labour Laws,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+154,Nursing Administartion,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+155,Teaching,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+160,Graphic / Web Designing,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+161,Hotel Management,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+162,Insurance,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+163,Management,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+165,Tourism,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+166,Visual Arts,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+167,Vocational Course,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+170,Law,,,,18,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+172,Medicine,,,,19,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+176,Operations,,,,27,In-active,,15-05-2023 06:29,0,0,03-01-2024 15:31
+178,Marketing,,,,27,In-active,,15-05-2023 06:29,0,0,03-01-2024 15:31
+180,CA,,,,30,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+181,Company Secretary,,,,31,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+182,ICWA,,,,32,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+183,Law,,,,33,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+184,Bengali,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+185,Economics,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+186,English,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+187,Fine Arts,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+188,Geography,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+189,Hindi,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+190,History,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+194,Political Science,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+195,Psycology,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+196,Public Administration,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+198,Sociology,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+199,Anthropology,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+200,Arts & Humanities,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+201,Communication,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+202,Film,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+203,Journalism,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+204,Maths,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+205,PR / Advertising,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+206,Sanskrit,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+207,Statistics,,,,34,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+208,Architecture,,,,35,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+209,Commerce,,,,36,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+210,Finance and Taxation,,,,36,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+211,Biotechnology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+212,Cardiology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+213,Clinical Immunology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+214,Dermatology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+215,ENT,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+216,Gastroenterology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+217,Gynaecology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+218,Medicine,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+219,Microbiology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+220,Nephrology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+221,Orthopaedics,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+222,Paediatric Surgery,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+223,Pathology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+224,Pharmocology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+225,Physiology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+226,Radiology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+227,Urology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+228,General Practitioner,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+229,Hepatology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+230,Immunology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+231,Neonatal,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+232,Obstretrics,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+233,Oncology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+234,Opthalmology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+235,Pediatrics,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+236,Psychiatry,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+237,Psychology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+238,Rheumatology,,,,37,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+239,Communication Design,,,,38,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+240,Industrial Design,,,,38,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+241,Interior and Furniture Design,,,,38,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+242,CAD / CAM,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+243,Chemical,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+244,Computer Engineering,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+246,Electrical and Power Drives,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+247,Electronics and Communication,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+248,Embedded System,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+249,Environmental Science,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+250,Information Technology,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+251,Instrumentation and Control Engineering,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+252,Material Science,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+253,Mechanical Engineering (Thermal and Fluid),,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+254,Mining Enginering,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+255,Petroluem Engineering,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+256,Production and Industrial Engg,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+257,Software Engineering,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+258,Structural Engineering,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+259,VLSI,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+260,Agriculture,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+261,Automobile,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+262,Aviation,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+263,Bio-Chemistry / Bio-Technology,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+264,Biomedical,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+265,Ceramics,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+266,Civil,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+267,Energy,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+268,Marine,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+269,Metallurgy,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+270,Mineral,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+271,Nuclear,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+272,Paint / Oil,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+273,Plastics,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+274,Textile,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+275,Education,,,,40,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+276,Ekistics,,,,41,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+278,Bengali,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+279,Disarmament & Political Geography,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+280,Economics,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+281,English,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+282,Fine Arts,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+283,Geography,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+284,Hindi,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+285,History,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+286,Home Science,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+287,International Politics,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+288,International Relations,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+289,Music,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+290,Political Science,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+291,Psycology,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+292,Sociology,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+293,Anthropology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+294,Bio Medical Science,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+295,Bio-Chemistry,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+296,Biology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+297,Biotechnology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+298,Botony,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+299,Chemistry,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+300,Computer Science,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+301,Electronics,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+302,Home Science,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+303,IT,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+304,Life Sciences,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+305,Maths,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+306,Micro Biology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+307,Nutrition,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+308,Physics,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+309,Statistics,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+311,Zoology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+312,Agriculture,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+313,Dairy Technology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+314,Environmental science,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+315,Food Technology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+316,Geology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+317,Nursing,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+318,Actuarial Science,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+319,Bio-informatics,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+320,Clinical Research,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+321,Economics,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+322,Geography,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+323,Industrial Chemistry,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+324,Organic Chemistry,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+325,Pharmaceutical Chemistry,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+326,Psychology,,,,44,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+327,Tourism,,,,45,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+328,Banking and Insurance,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+329,Finance,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+330,General,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+332,Human Resource,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+333,Information Technology,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+334,Marketing,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+336,Personal Management,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+337,Project Management,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+339,Advertising / Mass Communication,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+341,Systems,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+342,Operations,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+344,Retail Management,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+347,Dentistry,,,,48,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+348,Applied Art,,,,49,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+349,Art Education,,,,49,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+350,Painting,,,,49,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+351,Sculpture,,,,49,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+352,Hospitality,,,,50,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+353,Journalism and Mass Comm,,,,51,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+354,Veterinary Sciences,,,,52,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+355,Advertising,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+356,Anchoring and Video Jockeying,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+357,Computer Applications,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+359,Disaster Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+360,Editing,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+361,Film and TV Production,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+362,Financial Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+363,Industrial Relations and Personal Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+364,Interior Design,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+365,Journalism,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+366,Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+367,Marketing Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+368,Mass Comm,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+369,Operations Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+370,PR,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+371,Radio Jockey,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+372,Supply Chain Management,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+373,Tourism,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+374,Chemical,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+375,Civil,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+377,Electronics,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+378,Mechanical,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+380,Clinical Research,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+381,Business Finance,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+382,Quantitative Techniques in Business,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+383,Marketing & Distribution,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+384,Human Resources Management,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+385,System Analysis and Operations Management,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+386,Regional and Transport Economics,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+387,Applied Environmental Economics & Policy,,,,54,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+388,Social Work,,,,55,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+389,Computers,,,,56,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+390,Advertising/Mass Communication,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+391,Agriculture,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+392,Anthropology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+393,Architecture,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+394,Arts & Humanities,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+395,Automobile,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+396,Aviation,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+397,Bio-Chemistry/Bio-Technology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+398,Biomedical,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+399,Biotechnology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+400,Ceramics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+401,Chemical,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+402,Chemistry,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+403,Civil,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+404,Commerce,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+405,Communication,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+406,Computers,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+407,Dairy Technology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+408,Dermatology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+409,Economics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+411,Electronics/Telecomnication,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+412,Energy,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+413,ENT,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+414,Environmental,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+415,Fashion Designing/Other Designing,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+416,Film,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+417,Finance,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+418,Fine arts,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+419,Food Technology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+420,History,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+421,Hotel Management,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+422,HR/Industrial Relations,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+423,Immunology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+424,Instrumentation,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+425,International Business,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+426,Journalism,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+427,Law,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+428,Literature,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+429,Marine,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+430,Marketing,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+431,Maths,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+432,Mechanical,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+433,Medicine,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+434,Metallurgy,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+435,Microbiology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+436,Mineral,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+437,Mining,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+438,Neonatal,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+439,Nuclear,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+440,Obstretrics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+442,Other Doctorate,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+443,Electronics / Telecommunication,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+446,Paint/Oil,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+447,Pathology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+448,Pediatrics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+449,Petroleum,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+450,Pharmacy,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+451,Physics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+452,Plastics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+453,Production/Industrial,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+454,Psychiatry,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+455,Psychology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+456,Radiology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+457,Rheumatology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+458,Sanskrit,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+459,Sociology,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+460,Statistics,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+461,Systems,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+462,Textile,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+463,Vocational Courses,,,,57,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+464,Advertising/Mass Communication,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+465,Agriculture,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+466,Anthropology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+467,Architecture,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+468,Arts & Humanities,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+469,Automobile,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+470,Aviation,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+471,Bio-Chemistry/Bio-Technology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+472,Biomedical,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+473,Biotechnology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+474,Ceramics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+475,Chemical,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+476,Chemistry,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+477,Civil,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+478,Commerce,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+479,Communication,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+480,Computers,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+481,Dairy Technology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+482,Dermatology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+483,Economics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+484,Electrical,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+485,Electronics/Telecomnication,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+486,Energy,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+487,ENT,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+488,Environmental,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+489,Fashion Designing/Other Designing,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+490,Film,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+491,Finance,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+492,Fine arts,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+493,Food Technology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+494,History,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+495,Hotel Management,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+496,HR/Industrial Relations,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+497,Immunology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+498,Instrumentation,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+499,International Business,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+500,Journalism,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+501,Law,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+502,Literature,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+503,Marine,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+504,Marketing,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+505,Maths / Mathematics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+506,Mechanical,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+507,Medicine,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+508,Metallurgy,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+509,Microbiology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+510,Mineral,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+511,Mining,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+512,Neonatal,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+513,Nuclear,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+514,Obstretrics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+516,Other Doctorate,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+517,Other Engineering,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+518,Other Management,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+519,Other Science,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+520,Paint/Oil,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+521,Pathology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+522,Pediatrics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+523,Petroleum,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+524,Pharmacy,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+525,Physics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+526,Plastics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+527,Production/Industrial,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+528,Psychiatry,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+529,Psychology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+530,Radiology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+531,Rheumatology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+532,Sanskrit,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+533,Sociology,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+534,Statistics,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+535,Systems,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+536,Textile,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+537,Vocational Courses,,,,58,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+539,Operations Management,,,,27,In-active,,15-05-2023 06:29,0,0,03-01-2024 15:31
+543,Human Resources,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+551,Finance,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+570,Banking and Insurance,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+595,Human Resource Management / HR Management,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+611,Agriculture,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+614,Computer Applications,,,,21,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+619,General,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+621,Tax Procedure and Practice,,,,1,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+667,Education,,,,2,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+685,IMBA,,,,99999,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+694,Chemistry,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+705,Human resource,,,,82,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+711,Advertisement ,,,,83,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+713,Operations and Marketing ,,,,84,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+718,Industrial engineering and management,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+719,IEM,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+721,Computer Applications ,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+730,B.Tech,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+741,System Science,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+742,Leather Technology,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+761,International Business ,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+763,Human Resources,,,,84,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+809,Aviation ,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+816,Professional ,,,,1,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+821,Atmospheric Sciences,,,,44,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+826,Machine Design and Analysis,,,,39,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+833,Cryogenics and Vacuum Technology,,,,39,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+847,Industrial engineering and management ,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+859,Computer Application,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+869,Human Resources,,,,53,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+872,Marketing,,,,1,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+882,General,,,,17,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+922,Marketing and Finance ,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+932,Na,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+956,Tourism and Travel Management,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+962,Retail Management and Information Technology,,,,77,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+967,Honour,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+980,Marketing and finance,,,,128,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+981,ECOMMERCE ,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+986,Corporate Secretaryship,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+989,Information technology,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1007,Business process services,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1014,Finance,,,,128,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1025,Bank management,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1031,Commerce ,,,,128,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1039,General ,,,,128,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1046,Social work,,,,1,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1049,Hotel Management,,,,44,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1076,Hotel Management,,,,50,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1083,Business Analytics,,,,9,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1095,Financial services ,,,,84,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1123,FISHERIES SCIENCE,,,,44,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1130,Hospitality And Hotel Management,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1143,Library science,,,,12,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1144,Hospitality and resource management,,,,44,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1150,Hospitality management ,,,,2,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1153,Hotel management,,,,2,In-active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1157,Management Studies,,,,1,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1161,CIVIL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1163,ELECTRICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1164,ELECTRONICS AND COMMUNICATIONS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1165,INFORMATION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1166,MECHANICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1173,COMPUTER SCIENCE AND ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1175,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1186,PHARMACY,,,,6,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1187,ADVANCED DIPLOMA IN MARING ENGINEERING AND SYSTEMS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1188,MARINE ENGINEERING AND SYSTEMS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1190,STRUCTURAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1194,APPLIED ELECTRONICS AND INSTRUMENTATION ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1195,PHARMACEUTICAL ANALYSIS,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1197,PHARMACEUTICAL TECHNOLOGY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1198,PHARMACEUTICS,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1199,PHARMACOLOGY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1200,COMPUTER SCIENCE AND ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1201,POWER ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1202,POWER SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1203,VLSI AND EMBEDDED SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1209,DIGITAL SYSTEMS AND COMPUTER ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1210,MACHINE DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1211,POWER AND INDUSTRIAL DRIVES,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1213,I.T / INFORMATION TECHNOLOGY,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1214,VLSI,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1216,EMBEDDED SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1217,COMPUTER SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1218,ELECTRONICS AND COMMUNICATION ENGINEERING (VLSI AND EMBEDDED SYSTEMS),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1221,PHARMACY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1224,PHARMACEUTICAL CHEMISTRY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1225,PHARMACEUTICAL MANAGEMENT AND REGULATORY AFFAIRS,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1229,COMMERCIAL & COMPUTER PRACTISE,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1230,GARMENT  TECHNOLOGY,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1231,APPAREL DESIGN & FABRICATION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1232,COMMERCIAL PRACTICE,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1233,COMMERCIAL PRACTICE (ENGLISH),,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1234,COMMERCIAL PRACTICE (KANNADA),,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1235,LIBRARY AND INFORMATION SCIENCE,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1236,APPAREL DESIGN & FABRIC,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1239,COMPUTER  ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1240,ELECTRONICS AND COMMUNICATION ENGINEERING (SANDWICH),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1244,ARTIFICIAL INTELLIGENCE (AI)  AND MACHINE LEARNING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1245,CLOUD COMPUTING AND BIG DATA,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1246,ARTIFICIAL INTELLIGENCE AND DATA SCIENCE,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1249,BIG DATA ANALYTICS,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1251,INDUSTRIAL PHARMACY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1252,ARCHITECTURE,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1255,COMPUTER SCIENCE,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1257,POWER ELECTRONICS AND DRIVES,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1261,FOOD PROCESSING TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1262,SOIL MECHANICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1264,ARCHITECTURE ASSISTANTSHIP,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1265,AUTOMOBILE ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1270,EMBEDDED SYSTEM AND VLSI,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1271,POWER ELECTRONICS AND POWER SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1281,POWER ELECTRONICS AND ELECTRICAL DRIVES,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1282,THERMAL SCIENCES & ENERGY SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1283,GEOTECHNICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1284,RENEWABLE ENERGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1285,METALLURGICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1286,MINING ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1287,ELECTRONICS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1289,CYBER PHYSICAL SYSTEMS AND SECURITY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1290,COMMERCIAL PRACTICE (KAN & ENG),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1291,ALTERNATE ENERGY TECHNOLOGIES,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1293,LEATHER TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1295,CHEMICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1302,HEALTH CARE AND HOSPITAL MANAGEMENT,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1307,CYBER SECURITY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1308,ROBOTICS & ARTIFICIAL INTELLIGENCE,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1309,TRANSPORTATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1312,CHEMICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1313,COMPUTER AIDED STRUCTURAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1314,CONSTRUCTION PLANNING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1315,ENERGY SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1316,INTERNAL COMBUSTION AND AUTOMOBILES,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1317,PRODUCT DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1318,REFRIGERATION & AIR CONDITIONING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1319,RELIABILITY ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1320,SOFTWARE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1322,WEB DESIGNING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1326,MECHANICAL CAD/CAM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1327,DATA SCIENCE,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1329,INTERNET OF THINGS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1330,ROBOTICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1331,AVIONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1332,NANO TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1333,COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1334,MBA(FIN TECH),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1336,ELECTRICAL POWER ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1338,DIPLOMA IN HANDLOOM AND TEXTILE TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1339,BIOTECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1340,COMMUNICATION SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1341,COMPUTER SCIENCE & ENGINEERING(NETWORKS),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1346,FARM MACHINERY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1360,HIGH VOLTAGE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1363,PETROLEUM ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1364,SOIL MECHANICS AND FOUNDATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1368,COMPUTER SCIENCE AND ENGINEERING (DIGITAL FORENSIC & CYBERSECURITY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1369,CONSTRUCTION TECHNOLOGY AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1370,RADAR & COMMUNICATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1371,ROBOTICS AND AUTOMATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1383,BIOMEDICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1384,CHEMICAL ENGINEERING (SUGAR TECHNOLOGY),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1385,CHEMICAL ENGINEERING (OIL TECHNOLOGY),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1386,CHEMICAL ENGINEERING (PETROCHEMICAL),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1387,CHEMICAL ENGINEERING (PLASTIC & POLYMER),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1388,CHEMICAL ENGINEERING [SW],,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1389,ELECTRONICS & COMMUNICATION ENGG(INDUSTRY INTEGRATED),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1393,COMPUTER AIDED DESIGN AND MANUFACTURE,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1394,PRODUCTION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1395,PHARMACEUTICAL QUALITY ASSURANCE,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1398,POWER ELECTRONICS AND SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1400,ENVIRONMENTAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1401,STRUCTURAL DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1403,EMBEDDED SYSTEM AND VLSI DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1404,COMPUTER SCIENCE AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1405,INDUSTRIAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1406,POWER SYSTEMS AND AUTOMATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1407,FINANCE MARKETING AND HUMAN RESOURCE MANAGEMENT,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1410,HIGHWAY ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1412,TEXTILE TECHNOLOGY (SANDWICH),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1413,CIVIL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1414,ELECTRIC POWER SYSTEM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1415,COMPUTATIONAL ANALYSIS IN MECHANICAL SCIENCE,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1416,COMPUTATIONAL MECHANICS (MECHANICAL ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1417,COMPUTER NETWORKS AND INTERNET SECURITY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1423,COMPUTER AIDED STRUCTURAL ANALYSIS AND DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1425,COMMUNICATION ENGINEERING AND SIGNAL PROCESSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1427,POWER SYSTEMS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1429,AGRICULTURAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1430,SUSTAINABLE ARCHITECTURE,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1431,MANUFACTURING TECHNOLOGY & AUTOMATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1441,CRAFT TECHNOLOGY,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1443,REMOTE SENSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1448,ELECTRICAL AND POWER ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1449,ELECTRONICS & COMMUNICATION ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1450,DIGITAL IMAGE PROCESSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1451,MBA(APPLIED MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1453,ELECTRONIC ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1454,INSTRUMENTATION & CONTROL,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1455,COMMUNICATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1456,POWER SYSTEMS AND POWER ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1457,VLSI AND MICROELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1458,ADVANCED MATERIALS TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1459,ELECTRICAL AND ELECTRONICS ENGINEERING (SANDWICH),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1461,ELECTRICAL MACHINES AND DRIVES,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1462,PHARMACEUTICAL REGULATORY AFFAIRS,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1464,PHARMACOGNOSY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1465,SYSTEMS AND SIGNAL PROCESSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1467,METALLURGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1469,TEXTILE TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1472,PACKAGING TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1474,MINING ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1476,PLASTIC MOULD TECHNOLOGY (DPMT),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1477,PLASTIC TECHNOLOGY (DPT/PDPT),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1478,PLASTICS PROCESSING AND TESTING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1480,PETROLEUM TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1485,MBA(INFORMATION MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1487,ELECTRONICS AND COMMUNICATIONS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1491,CHEMICAL TECHNOLOGY(RUBBER / PLASTIC),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1493,ELECTRICAL AND ELECTRONICS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1494,ELECTRONICS AND INSTRUMENTATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1495,ENVIRONMENTAL ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1496,GEO INFORMATICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1497,HEAT POWER ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1498,HYDRAULICS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1499,INDUSTRIAL METALLURGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1500,INDUSTRIAL POLLUTION CONTROL,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1502,MARINE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1503,MECHANICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1504,MICROWAVE AND RADAR ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1514,INFRASTRUCTURE ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1516,COMMUNICATION AND COMPUTER NETWORKING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1517,COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE ),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1520,SIGNAL PROCESSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1521,WATER RESOURCE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1522,CERAMIC ENGINEERING AND TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1526,3-D ANIMATION & GRAPHICS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1527,MICROWAVE AND COMMUNICATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1528,CIVIL ENGINEERING (2 SHIFT),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1529,COMPUTER SCIENCE AND ENGINEERING (IOT),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1530,"MBA(ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND DEEP  LEARNING)",,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1531,ADVANCED DIE & MOULD MAKING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1532,ADVANCED MECHATRONICS & INDUSTRIAL AUTOMATION,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1534,ELECTRONICS COMMUNICATION  AND INSTRUMENTATION ENGG,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1535,OPTOELECTRONICS & COMMUNICATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1536,BUSINESS ADMINISTRATION,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1537,COSMETOLOGY,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1538,GARMENT & FASHION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1540,COMPUTER INTEGRATED MANUFACTURING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1541,ENVIRONMENTAL SCIENCE AND ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1542,SOIL AND WATER CONSERVATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1543,THERMAL AND FLUID ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1544,WATER RESOURCE MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1546,PLASTIC TECHNOLOGY (DPT),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1547,PLASTICS PROCESSING & TESTING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1550,PLASTICS MOULD DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1551,PLASTIC MOULD TECHNOLOGY (DPMT/PDPMT),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1552,PLASTICS PROCESSING & TESTING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1553,PLASTIC TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1554,PLASTICS TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1556,PLASTICS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1560,FASHION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1561,GARMENT TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1562,PRINTING TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1564,ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING,https://collegedunia.com/courses/bachelor-of-technology-btech-electronics-and-telecommunication-engineering,https://collegedunia.com/courses/bachelor-of-technology-btech-electronics-and-telecommunication-engineering,https://collegedunia.com/courses/bachelor-of-technology-btech-electronics-and-telecommunication-engineering,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1565,INSTRUMENTATION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1566,INDUSTRIAL PRODUCTION ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1567,ENERGY ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1569,COMPUTER TECHNOLOGY AND APPLICATIONS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1570,TEXTILE DESIGN,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1571,AUDIOGRAPHY & SOUND ENGINEERING,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1573,FILM & VIDEO EDITING,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1576,MECHANICAL ENGINEERING AUTOMOBILE,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1577,SIGNAL PROCESSING AND COMMUNICATIONS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1578,VLSI DESIGN AND SIGNAL PROCESSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1581,HANDLOOM & TEXTILE TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1584,BIO ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1585,ELECTRONICS DESIGN AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1586,ENERGY TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1587,FOOD ENGINEERING AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1588,POLYMER SCIENCE AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1589,DESIGN,,,,38,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1590,ANIMATION AND MULTIMEDIA TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1591,CONTROL AND INSTRUMENTATION,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1592,FOOD PROCESSING TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1593,GREEN ENERGY TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1594,WATER RESOURCES AND HYDRAULIC ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1595,PETROLEUM TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1596,ARCHITECTURAL ASSISTANTSHIP,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1597,MODERN OFFICE MANAGEMENT,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1598,MEDICAL  ELECTRONICS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1602,TEXTILE ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1604,FELLOWSHIP PROGRAMME IN MANAGEMENT,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1605,CIVIL ENGINEERING (RURAL ENGINEERING),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1606,PLASTIC MOULD TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1607,PLASTICS MOULD TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1608,PLASTICS TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1609,PLASTIC MOULD DESIGN (CAD/CAM),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1612,PRODUCTION ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1614,COSTUME DESIGN & GARMENT TECHNOLOGY,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1615,MODERN OFFICE PRACTICE,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1616,DIPLOMA IN ARCHITECTURAL ASSISTANTSHIP,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1618,MODERN OFFICE PRACTICE,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1620,POWER SYSTEM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1623,DRESS DESIGNING & GARMENT MANUFACTURING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1625,MICRO ELECTRONICS & VLSI TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1637,INSTRUMENTATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1638,MEDICAL LABORATORY TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1640,CIVIL ENGINEERING(CONSTRUCTION TECHNOLOGY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1642,ME COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1644,MECHANICAL ENGG (MANUFACTURING TECHNOLOGY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1645,MECHANICAL ENGINEERING (ROBOTICS),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1647,PRODUCTION AND INDUSTRIAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1648,INTERIOR DECORATION,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1650,FINE ARTS,,,,165,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1652,ELECTRONIC ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1653,PRODUCTION AND INDUSTRIAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1655,MICRO ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1658,POLYMER ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1659,ADVANCED DIE & MOULD MAKING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1660,ADVANCED MECHATRONICS & INDUSTRIAL AUTOMATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1661,MECHANICAL ENGINEERING (TOOL & DIE),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1664,CDDM,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1665,PLASTIC & MOULD TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1667,RENEWABLE ENERGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1668,OPTOELECTRONICS AND LASER TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1669,MINING & MINE SURVEYING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1670,ENERGY MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1672,COMPUTER SCIENCE,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1674,ELECTRICAL POWER AND ENERGY SYSTEM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1675,CAD/CAM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1676,INSTRUMENTATION ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1681,COMPUTER TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1684,MATERIAL SCIENCE AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1685,POWER PLANT ENGINEERING & ENERGY MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1686,INDUSTRIAL SAFETY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1690,DIGITAL ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1691,ELECTRICAL DEVICES AND POWER SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1692,INFORMATION SECURITY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1694,CIVIL ENGINEERING (COMPUTER AIDED STRUCTURAL ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1695,TURBO MACHINERY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1698,POWER SYSTEM AND CONTROL,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1700,INDUSTRIAL ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1701,APPLIED ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1703,MANUFACTURING ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1704,TOOL AND DIE MAKING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1708,PLASTIC ENGINEERING(SANDWICH PATTERN),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1709,MARINE ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1710,MODERN OFFICE PRACTICE (ENGLISH),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1711,MODERN OFFICE PRACTICE (HINDI),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1712,GARMENT FABRICATION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1713,MECHANICAL ENGINEERING (MAINTENANCE),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1718,PGDM (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1719,PGDM (EXECUTIVE),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1725,ELECTRONICS ENGINEERING (DIGITAL ELECTRONICS),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1726,Electronics Engineering (Medical Electronics),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1727,Fashion Design,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1730,COSMETOLOGY AND HEALTH,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1731,MEDICAL LAB TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1732,MODERN OFFICE PRACTICE (ENGLISH),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1733,MODERN OFFICE PRACTICE (HINDI),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1734,RENEWABLE ENERGY ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1735,URBAN DEVELOPMENT MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1736,WATER RESOURCES ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1737,MBA(SUSTAINABILITY MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1738,COMPUTER ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1740,EARTHQUAKE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1741,ELECTRONICS & COMMUNCATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1742,ENERGY SCIENCE AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1743,DRUG REGULATORY AFFAIRS,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1744,PHARMACEUTICAL ADMINISTRATION,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1745,PHARMACOGNOSY AND PHYTOCHEMISTRY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1746,CLINICAL PHARMACY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1747,HOSPITAL AND CLINICAL PHARMACY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1750,ART FOR DRAWING TEACHER,,,,153,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1751,CIVIL ENGINEERING (CONSTRUCTION TECHNOLOGY),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1752,DIGITAL ELECTRONICS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1754,INSTRUMENTATION AND CONTROL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1755,MEDICAL ELECTRONICS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1756,BIOCHEMICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1757,BIOINFORMATICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1758,COMMUNICATION NETWORKS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1759,INDUSTRIAL ELECTRONICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1760,MANUFACTURING PROCESS & AUTOMATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1761,MOBILE COMMUNICATION AND NETWORK TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1766,ENGINEERING EDUCATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1769,TOOL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1771,POLYMER TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1775,FASHION DESIGNING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1779,COMPUTER AIDED ANALYSIS AND DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1780,ENERGY SYSTEMS AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1781,Hydraulics And Water Resource Engineering,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1782,INDUSTRIAL BIOTECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1783,INFORMATION SYSTEMS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1784,MICROWAVE & OPTICAL COMMUNICATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1785,POLYMER TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1789,MBA (EXECUTIVE),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1795,PHARMACEUTICAL ASSURANCE,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1800,PGDM(ADVERTISING COMMUNICATION),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1803,COMPUTATIONAL BIOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1809,INFORMATION TECHNOLOGY ENABLED SERVICES AND MANAGEMENT (ITESM),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1810,ARCHITECTURE PEDAGOGY,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1811,BUILDING SERVICES,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1812,EKISTICS,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1813,MEDICAL ARCHITECTURE,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1814,RECREATION ARCHITECTURE,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1815,URBAN REGENERATION,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1816,POST GRADUAT CERTIFICATE IN MANAGEMENT,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1818,POST GRADUATE DIPLOMA IN MANAGEMENT,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1823,POST GRADUATE DIPLOMA IN MANAGEMENT (OPERATIONS MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1824,POST GRADUATE DIPLOMA IN MANAGEMENT (EXECUTIVE)- HEALTH PROMOTION,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1826,POST GRADUATE DIPLOMA IN MANAGEMENT EXECUTIVE HEALTH AND FAMILY WELFARE,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1833,ELECTRONICS & INSTRUMENTATION ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1834,FABRICATION TECHNOLOGY & ERECTION ENGG (SANDWITCH PATTERN),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1835,FOOD TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1836,ELECTRONICS & TELECOMMUNICATION ENGINEERING (TECHNOLOGYNICIAN ELECTRONIC RADIO),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1837,ELECTRONICS AND TELECOMMUNICATION ENGINEERING (RADIO AND SYSTEM),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1838,INFORMATION AND COMMUNICATION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1843,SHIPBUILDING ENGINEERING (SANDWICH PATTERN),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1847,FOUNDATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1848,INDUSTRIAL AUTOMATION & RF ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1849,INFORMATION TECHNOLOGY AND ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1850,POWER AND ENERGY ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1851,PLASTICS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1852,PLASTICS ENGINEERING(SANDWICH PATTERN),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1854,APPLIED INSTRUMENTATION,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1855,CIVIL ENGINEERING (TRANSPORTATION ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1856,CIVIL(WATER RESOURCE ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1857,COMPUTER AIDED PROCESS DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1859,CRYOGENIC ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1860,ELECTRONICS & COMMUNICATION(COMMUNICATION SYSTEM ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1861,ENVIRONMENTAL MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1862,MECHANICAL(I.C. ENGINE & AUTOMOBILE ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1863,RUBBER TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1864,TEXTILE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1867,CHEMICAL ENGINEERING (Green Technology and Sustainability Engineering),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1868,MECHANICAL ENGINEERING (THERMAL ENGINEERING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1870,COMPUTER AIDED COSTUME DESIGN AND DRESS MAKING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1873,INFRASTRUCTURE ENGINEERING AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1879,PETROCHEMICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1880,BIOMEDICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1891,ELECTRONICS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1892,THERMAL SYSTEMS AND DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1893,PGDM (TECHNOLOGY MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1894,ENVIRONMENTAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1896,INFRASTRUCTURE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1897,URBAN AND REGIONAL PLANNING,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1898,URBAN DESIGN,,,,43,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1902,ADVANCED ELECTRICAL POWER SYSTEM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1904,ARTIFICER TRAINING (ELECTRICAL),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1905,ARTIFICER TRAINING (ELECTRONICS),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1906,ARTIFICER TRAINING (MECH),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1907,NAVY ENTRY ARTIFICER/ DIPLOMA IN MECHANICAL AND ELECTRICAL,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1912,ARMAMENT ENGINEERING (GUN FITTER),,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1913,ARMAMENT ENGINEERING (GUN FITTER),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1914,AUTOMOBILE ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1915,AUTOMOBILE ENGINEERING [AUTOMOBILE FITTER],,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1916,ELECTRICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1918,INSTRUMENTS AND MEDICAL EQUIPMENT,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1919,SMALL ARMS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1920,SMALL ARMS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1921,WEAPONS ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1922,WEAPONS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1924,PGDM(COMMUNICATIONS),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1925,CIVIL ENGINEERING (INFRASTRUCTURE ENGINEERING AND MANAGEMENT),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1926,ELECTRICAL ENGINEERING (POWER SYSTEMS),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1928,ENERGY SYSTEMS (SOLAR ENERGY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1929,MATERIAL SCIENCE AND ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1930,MECHANICAL ENGINEERING (DESIGN),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1931,MECHANICAL ENGINEERING (MANUFACTURING),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1933,NUCLEAR SCIENCE AND TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1934,GEOTECHNICAL AND GEOENVIRONMENTAL ENERGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1936,ELECTRONICS & COMMUNICATION(WIRELESS COMMUNICATION SYSTEMS & NETWORKS),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1937,ELECTRONICS & COMMUNICATION(SIGNAL PROCESSING & COMMUNICATION),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1940,CONSTRUCTION MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1941,FABRICATION TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1942,POLYMER NANOTECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1944,POWER ELECTRONICS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1946,COMPUTER AIDED DESIGN MANUFACTURE AND ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1947,PACKAGING TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1950,TEXTILE CHEMISTRY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1951,ADVANCED ELECTRONICS AND COMMUNICATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1952,FRACTURE MECHANICS,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1953,GAS TURBINE TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1954,IRRIGATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1955,MAN-MADE TEXTILE TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1956,METALLURGICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1957,METALLURGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1958,PETROCHEMICAL ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1959,TEXTILE PROCESSING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1962,TEXTILE MANUFACTURING AND TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1963,MEDICAL CHEMISTRY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1966,ELECTRONICS & COMMUNICATION(SIGNAL PROCESSING & VLSI TECHNOLOGY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1971,AUTOMATION AND ROBOTICS,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1972,GAMING AND ANIMATION,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1973,HOTEL MANAGEMENT,,,,14,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1980,TOWN & COUNTRY PLANNING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1982,INFORMATION TECHNOLOGY(INFORMATION AND CYBER WARFARE),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1984,ADVANCED MANUFACTURING TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1985,ELECTRICAL POWER SYSTEM,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1988,PGDM(INFRASTRUCTURE MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1989,PGDM(LAW),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1994,PLASTIC ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1997,MECHANICAL ENGINEERING(CAD/CAM),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+1998,AERONAUTICAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2004,MBA(TRANSPORT ECONOMICS AND MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2006,PGDM(MARKETING AND SALES MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2007,PGDM (Business Analytics),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2008,PGDM(E- BUSINESS MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2009,DIPLOMA MEDICAL LAB TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2010,INSTRUMENTATION & CONTROL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2011,PHARMACEUTICAL SCIENCE,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2012,BUSINESS MANAGEMENT,,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2013,OFFICE MANAGEMENT AND COMPUTER APPLICATION,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2016,NANO SCIENCE & TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2017,FASHION DESIGNING & GARMENT TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2019,FASHION & DESIGN,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2020,FINANCE ACCOUNT & AUDITING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2021,TEXTILE PROCESSING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2025,COMPUTER ENGINEERING AND NETWORKING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2028,DEFENCE TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2029,INDUSTRIAL AND PRODUCTION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2031,CAD CAM,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2032,DIPLOMA IN MEDICAL LAB TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2033,FASHION TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2034,NETWORK SECURITY AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2038,CEMENT TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2040,GAMING TECHNOLOGY,,,,165,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2043,FOOD PLANT OPERATIONS MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2044,FOOD PROCESS ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2045,FOOD SAFETY AND QUALITY MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2046,FOOD SUPPLY CHAIN MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2047,FOOD TECHNOLOGY AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2052,M.Tech (Mechanical Engineering),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2058,FASHION AND APPAREL DESIGN,,,,165,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2061,CIVIL & RURAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2062,ARCHITECTURE ASSISTANTSHIP,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2065,Energy & Environmental Engineering,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2066,MECHANICAL ENGINEERING (MANUFACTURING & AUTOMATION TECHNOLOGY),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2068,INFORMATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2069,ELECTRICAL AND INSTRUMENTATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2071,AIRCRAFT MAINTENANCE ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2073,PRINTING TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2078,AGRICULTURAL TECHNOLOGY,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2080,PHARMACONOSY AND PHYTOCHEMISTRY,,,,42,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2081,TRANSPORTATION ENGINEERING AND MANAGEMENT,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2083,PGDM(PUBLIC POLICY AND MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2085,HEAT AND POWER,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2086,MASTER IN HOTEL MANAGEMENT AND CATERING TECHNOLOGY(MHMCT),,,,50,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2087,MASTER OF HOTEL MANAGEMENT AND CATERING TECHNOLOGY,,,,50,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2088,MANUFACTURING SYSTEMS ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2090,ELECTRONICS & COMMUNICATION ENGINEERING (VLSI DESIGN),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2093,PGDM(GOVERNMENT ACCOUNTING AND INTERNAL AUDIT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2095,STRUCTURAL AND FOUNDATION ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2096,MECHANICAL ENGINEERING DESIGN,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2097,FIRE TECHNOLOGY AND SAFETY,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2098,CIVIL AND ENVIRONMENTAL ENGINEERING,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2100,TEXTILE TECHNOLOGY,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2102,PRINTING AND PACK TECHNOLOGY,,,,7,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2104,Advance diploma in tool & die making,,,,17,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2105,COMPUTER SCEINCE & ENGINEERING,,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2107,CIVIL (CONSTRUCTION ENGINEERING AND MANAGEMENT ),,,,12,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
+2115,MBA(TOURISM MANAGEMENT),,,,46,Active,No,15-05-2023 06:29,0,0,03-01-2024 15:31
